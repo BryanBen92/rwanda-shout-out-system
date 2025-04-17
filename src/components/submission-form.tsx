@@ -121,11 +121,11 @@ export function SubmissionForm() {
                     </SelectTrigger>
                   </FormControl>
                   <SelectContent>
-                    <SelectItem value="Kigali-Village">Kigali Village</SelectItem>
-                    <SelectItem value="Muhanga-Village">Muhanga Village</SelectItem>
-                    <SelectItem value="Huye-Village">Huye Village</SelectItem>
-                    <SelectItem value="Rubavu-Village">Rubavu Village</SelectItem>
-                    <SelectItem value="Musanze-Village">Musanze Village</SelectItem>
+                    <SelectItem value="Kigali-Village">Kigali City</SelectItem>
+                    <SelectItem value="Muhanga-Village">Muhanga</SelectItem>
+                    <SelectItem value="Huye-Village">Huye</SelectItem>
+                    <SelectItem value="Rubavu-Village">Rubavu</SelectItem>
+                    <SelectItem value="Musanze-Village">Musanze</SelectItem>
                   </SelectContent>
                 </Select>
                 <FormMessage />
